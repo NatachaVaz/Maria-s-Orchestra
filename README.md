@@ -10,7 +10,7 @@ The goal of the game is to allow users to play different instrument sounds by cl
 - **Authentic Sounds**: Uses real sounds recorded from my daughter's toy musical instruments.
 
 ## Technologies Used:
-- **HTML
-- **CSS
-- **JavaScript
+- HTML
+- CSS
+- JavaScript
 
